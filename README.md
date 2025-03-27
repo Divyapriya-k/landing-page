@@ -1,2 +1,2 @@
 # landing-page
-This is  landing page using tailwind css
+This is  landing page using tailwindcss
